@@ -24,3 +24,5 @@ function App() {
 }
 
 export default App
+
+// tu pagal che
